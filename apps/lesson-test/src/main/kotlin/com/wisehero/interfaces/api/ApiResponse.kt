@@ -1,4 +1,4 @@
-package com.loopers.interfaces.api
+package com.wisehero.interfaces.api
 
 data class ApiResponse<T>(
     val meta: Metadata,

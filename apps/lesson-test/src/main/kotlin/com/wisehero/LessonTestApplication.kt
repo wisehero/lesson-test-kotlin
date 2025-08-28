@@ -8,7 +8,7 @@ import java.util.TimeZone
 
 @ConfigurationPropertiesScan
 @SpringBootApplication
-class CommerceApiApplication {
+class LessonTestApplication {
 
     @PostConstruct
     fun started() {
@@ -18,5 +18,5 @@ class CommerceApiApplication {
 }
 
 fun main(args: Array<String>) {
-    runApplication<CommerceApiApplication>(*args)
+    runApplication<LessonTestApplication>(*args)
 }

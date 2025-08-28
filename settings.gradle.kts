@@ -1,7 +1,7 @@
-rootProject.name = "loopers-kotlin-spring-template"
+rootProject.name = "lesson-test-kotlin"
 
 include(
-    ":apps:commerce-api",
+    ":apps:lesson-test",
     ":modules:jpa",
     ":modules:redis",
     ":supports:jackson",

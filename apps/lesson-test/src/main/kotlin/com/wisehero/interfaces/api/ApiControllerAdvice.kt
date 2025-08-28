@@ -5,6 +5,7 @@ import com.fasterxml.jackson.databind.exc.InvalidFormatException
 import com.fasterxml.jackson.databind.exc.MismatchedInputException
 import com.loopers.support.error.CoreException
 import com.loopers.support.error.ErrorType
+import com.wisehero.interfaces.api.ApiResponse
 import org.slf4j.LoggerFactory
 import org.springframework.http.ResponseEntity
 import org.springframework.http.converter.HttpMessageNotReadableException
